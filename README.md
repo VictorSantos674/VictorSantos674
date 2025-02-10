@@ -6,7 +6,7 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 
 💬 Se tiver alguma dúvida, quiser colaborar em um projeto ou apenas trocar uma ideia, me mande uma mensagem!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 
 
