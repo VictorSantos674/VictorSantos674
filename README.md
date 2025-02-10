@@ -6,11 +6,6 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 
 💬 Se tiver alguma dúvida, quiser colaborar em um projeto ou apenas trocar uma ideia, me mande uma mensagem!
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
-
-
-
-
 ## ⭐ GitHub Stats
 
 <table>
@@ -42,6 +37,12 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 
 ---
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
+
+---
+
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
@@ -54,6 +55,14 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+---
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vicsantosdev/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:3.victorsouza@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/VictorSantos674?tab=overview&from=2025-02-01&to=2025-02-10)
 
 ---
 
