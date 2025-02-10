@@ -6,7 +6,7 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 
 💬 Se tiver alguma dúvida, quiser colaborar em um projeto ou apenas trocar uma ideia, me mande uma mensagem!
 
-<img src="https://raw.githubusercontent.com/VictorSantos674/victorsantos674/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 
@@ -18,22 +18,14 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=victorcode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=victor code&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorcode&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
