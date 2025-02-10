@@ -35,7 +35,6 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
   </tr>
 </table>
 
----
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
@@ -55,7 +54,6 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
----
 
 ## Onde me encontrar
 
@@ -64,7 +62,6 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorSantos674?tab=overview&from=2025-02-01&to=2025-02-10)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
----
 
 <p align="center">
   <img
