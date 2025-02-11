@@ -15,7 +15,7 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=victorcode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=VictorSantos674&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
