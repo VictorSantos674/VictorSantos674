@@ -15,14 +15,14 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=VictorSantos674&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=VictorSantos674&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantos674&layout=compact&langs_count=7&theme=dark"
         alt="Github Stats"
       />
     </td>
