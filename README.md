@@ -13,11 +13,7 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 <table>
   <tr>
     <td>
-      <img
-        align="center"
-        src="(https://github-readme-stats.vercel.app/api?username=VictorSantos674code&theme=dark)](https://github.com/anuraghazra/github-readme-stats)"
-        alt="Github Stats"
-      />
+      [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     </td>
     <td>
       <img
