@@ -26,14 +26,6 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="right"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorcode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
