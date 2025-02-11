@@ -14,14 +14,14 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
   <tr>
     <td>
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=victorcode&theme=dark&hide_border=false&include_all_commits=true"
+        align="center"
+        src="(https://github-readme-stats.vercel.app/api?username=VictorSantos674code&theme=dark)](https://github.com/anuraghazra/github-readme-stats)"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
@@ -29,7 +29,7 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
     <td>
       <br />
       <img
-        align="left"
+        align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=victorcode&theme=dark&hide_border=false"
         alt="Github Stats"
       />
