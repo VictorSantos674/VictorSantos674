@@ -2,6 +2,8 @@
 
 Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento **Full-Stack**. Atualmente, estou explorando **Machine Learning e Redes de Computadores** e criando projetos incríveis com **Golang, Java, Kotlin e SQL**.
 
+🌱 Estou aprendendo Java, JavaScript e Python.
+
 🔭 Atualmente, estou trabalhando no **To-Do-List** e **Chess-Game**, o primeiro sendo um sistema de gerenciamento de tarefas simples e eficiente, já o segundo é um jogo de xadrez seguindo o padrão **MVC**. Ambos sendo desenvolvidos em Java.
 
 💬 Se tiver alguma dúvida, quiser colaborar em um projeto ou apenas trocar uma ideia, me mande uma mensagem!
@@ -54,7 +56,6 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicsantosdev/)
@@ -69,3 +70,5 @@ Sou estudante de **Ciências da Computação** e apaixonado por desenvolvimento 
     alt="Número de visitantes no perfil"
   />
 </p>
+
+![snake gif](https://github.com/Graazi/Graazi/blob/output/github-contribution-grid-snake.svg)
