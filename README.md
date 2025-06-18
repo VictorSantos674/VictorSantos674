@@ -49,7 +49,7 @@ Portfólio pessoal desenvolvido com foco na apresentação de projetos
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantos674&layout=compact&langs_count=7&theme=tokyonight"
+        src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantos674&layout=compact&langs_count=7&theme=tokyonigh](https://github-readme-stats.vercel.app/api/wakatime?username=VictorSantos674&theme=tokyonight)](https://wakatime.com/@VictorSantos674)"
         alt="Linguagens mais usadas"
       />
     </td>
