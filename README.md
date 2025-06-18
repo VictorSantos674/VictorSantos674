@@ -49,8 +49,8 @@ Portfólio pessoal desenvolvido com foco na apresentação de projetos
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorSantos674&theme=tokyonight"
-        alt="Tempo de codificação"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantos674&layout=compact&langs_count=7&theme=tokyonight"
+        alt="Linguagens mais usadas"
       />
     </td>
   </tr>
